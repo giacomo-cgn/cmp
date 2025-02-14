@@ -4,7 +4,7 @@
 **Giacomo Cignoni<sup>1</sup>, Andrea Cossu<sup>1</sup>, Alex Gómez Villa<sup>2</sup>, Joost van de Weijer<sup>2</sup>, Antonio Carta<sup>1</sup>**  
 <sup>1</sup>University of Pisa, <sup>2</sup>Computer Vision Center (CVC)  
 
-[![Paper](https://img.shields.io/badge/Paper-Arxiv-red.svg)](https://arxiv.org/abs/XXXX.XXXXX)  
+[![Paper](https://img.shields.io/badge/Paper-Arxiv-red.svg)](https://www.arxiv.org/abs/2502.09140)  
 *Accepted at ESANN 2025*
 
 ---
@@ -74,10 +74,13 @@ For each experiment desired to be run with mean and std accuracy, you have to sp
 ## Citation
 If you use this work, please cite:
 ```bibtex
-@inproceedings{cignoni2024replay,
-  title={Replay-free Online Continual Learning with Self-Supervised MultiPatches},
-  author={Cignoni, Giacomo and Cossu, Andrea and Gómez Villa, Alex and van de Weijer, Joost and Carta, Antonio},
-  booktitle={Proceedings of the ...},
-  year={2025}
+@misc{cignoni2025replayfreeonlinecontinuallearning,
+      title={Replay-free Online Continual Learning with Self-Supervised MultiPatches}, 
+      author={Giacomo Cignoni and Andrea Cossu and Alex Gomez-Villa and Joost van de Weijer and Antonio Carta},
+      year={2025},
+      eprint={2502.09140},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.09140}, 
 }
 ```
